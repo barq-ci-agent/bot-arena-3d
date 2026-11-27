@@ -6,3 +6,4 @@
 - Gunshots: "Gunshot Sounds" (SKS, CZ-52, Mosin Nagant, shotgun recordings) by Vincent Sevedge (Tabasco), OpenGameArt. Pack file states CC-BY 3.0, page lists CC0. Credit given here. https://opengameart.org/content/gunshot-sounds
 - Zombie voices: "Zombie noises and moans" by ianzazz (CC0) https://opengameart.org/content/zombie-noises-and-moans ; "Zomby sfx pack" by saturn91 (CC0) https://opengameart.org/content/zomby-sfx-pack ; "Zombie moans" by Darsycho (CC0) https://opengameart.org/content/zombie-moans
 - Wind/drone ambience, claw and hurt sounds: generated in code.
+- Rifle: "Bolt Action Rifle 7.62" (Poly Haven, CC0) https://polyhaven.com/a/bolt_action_rifle_7_62 . Cars: "Covered Car" https://polyhaven.com/a/covered_car . Street lamps: "Street Lamp 01" https://polyhaven.com/a/street_lamp_01 . Barriers: "Concrete Road Barrier 02" https://polyhaven.com/a/concrete_road_barrier_02 . All Poly Haven, CC0.
